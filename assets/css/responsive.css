@@ -1,0 +1,247 @@
+@media screen and (max-width: 1199px) {
+  .offer-area .single-task {
+    padding: 0;
+  }
+
+  .cta-bg {
+    width: 100%;
+    max-width: 100%;
+  }
+
+  .hero-content h1 {
+    font-size: 38px;
+  }
+
+  .fe-rw {
+    padding: 50px 0;
+  }
+
+  .language-selector {
+    margin-right: 24px;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .footer-top-content {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+
+  .footer-top-content .footer-widget:first-child {
+    grid-column: 1/5;
+  }
+
+  .footer-top {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+
+  .header-area {
+    min-height: 65px;
+  }
+
+  .m_menu_outer {
+    height: calc(100vh - 65px);
+  }
+
+  .hero-content {
+    padding: 0;
+  }
+
+  .hero-area {
+    padding: 60px 0;
+  }
+
+  .hero-img {
+    margin-bottom: 60px;
+  }
+
+  .booking-area {
+    padding: 60px 0;
+  }
+
+  .task-area {
+    padding: 30px 0;
+  }
+
+  .offer-area {
+    padding: 20px 0;
+  }
+
+  .offer-area .single-task {
+    max-width: 480px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .cta-bg {
+    display: none;
+  }
+
+  .cta-area {
+    background-color: #f5f6fa;
+    padding: 60px 0;
+    padding-bottom: 40px;
+  }
+
+  .cta-content-outer {
+    padding: 0;
+    min-height: auto;
+  }
+
+  .footer-decor-img {
+    background-color: #f5f6fa;
+  }
+
+  .section-title h2 {
+    font-size: 28px;
+  }
+
+  .section-title p {
+    font-size: 16px;
+  }
+
+  .task-area {
+    padding-bottom: 20px;
+  }
+
+  .footer-bottom {
+    padding: 20px 0;
+  }
+
+  .contact-area {
+    padding-top: 60px;
+    padding-bottom: 10px;
+  }
+
+  .faq-area {
+    padding-top: 30px;
+    padding-bottom: 50px;
+  }
+
+  .fe-area {
+    padding-top: 60px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .m_menu_outer {
+    padding: 24px 16px;
+  }
+
+  .hero-content h1 {
+    font-size: 28px;
+    margin-bottom: 24px;
+  }
+
+  .hero-content p {
+    font-size: 16px;
+  }
+
+  .hero-btns a:not(:last-child) {
+    margin-bottom: 15px;
+  }
+
+  .hero-content {
+    text-align: center;
+  }
+
+  .hero-btns a {
+    min-width: 250px;
+  }
+
+  .booking-content {
+    grid-template-columns: 1fr;
+    padding: 16px;
+  }
+
+  .section-title h2 {
+    font-size: 22px;
+  }
+
+  .section-title p {
+    font-size: 15px;
+  }
+
+  .booking-area {
+    padding: 50px 0;
+    padding-bottom: 30px;
+  }
+
+  .footer-top-content {
+    grid-template-columns: 1fr;
+  }
+
+  .footer-top-content .footer-widget:first-child {
+    grid-column: 1/1;
+  }
+
+  .bk-list.cta {
+    padding: 0;
+  }
+
+  .bk-list.cta li:not(:last-child) {
+    margin-right: 8px;
+  }
+
+  .offer-area {
+    padding: 0;
+  }
+
+  .login-fm h1 {
+    font-size: 36px;
+  }
+
+  .contact-area {
+    padding-top: 50px;
+    padding-bottom: 10px;
+  }
+
+  .fe-rw .sec-img {
+    margin-bottom: 30px;
+  }
+
+  .fe-content h4 {
+    font-size: 20px;
+  }
+
+  .fe-content p {
+    font-size: 15px;
+  }
+
+  .fe-rw {
+    padding: 35px 0;
+  }
+
+  .faq-area {
+    padding-top: 10px;
+    padding-bottom: 50px;
+  }
+
+  .accordion-button {
+    font-size: 16px;
+    padding: 24px;
+  }
+
+  .accordion-body p {
+    font-size: 15px;
+  }
+
+  .fe-area {
+    padding-top: 55px;
+  }
+
+  .m-grid {
+    grid-template-columns: 45px auto;
+    grid-gap: 15px;
+  }
+
+  .main-menu ul.submenu li a {
+    padding: 15px 5px;
+  }
+
+  .m_menu_outer .main-menu li {
+    margin-bottom: 10px;
+  }
+
+
+}
